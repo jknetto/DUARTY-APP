@@ -1,0 +1,10 @@
+{
+  "name": "DUARTY — Gestão Financeira & Voice Entry",
+  "description": "Controle financeiro inteligente pessoal e empresarial com lançamento instantâneo por voz e texto, cálculo financeiro em tempo real e separação CPF/CNPJ.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
